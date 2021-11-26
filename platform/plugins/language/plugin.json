@@ -1,0 +1,9 @@
+{
+    "name": "Language",
+    "namespace": "Botble\\Language\\",
+    "provider": "Botble\\Language\\Providers\\LanguageServiceProvider",
+    "author": "Alynana",
+    "url": "#",
+    "version": "5.3",
+    "description": "Multilingual for Botble CMS"
+}

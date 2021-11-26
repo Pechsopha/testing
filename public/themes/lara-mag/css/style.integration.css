@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css?family=Hanuman');
+body{
+   font-family: 'Roboto Condensed','Hanuman',sans-serif; 
+}
+span,p,a,h1,h2,h3,h4,h5,strong,b,label{
+ font-family: 'Roboto Condensed','Hanuman',sans-serif; 
+}
+.bar-2{
+  display:inline-block;
+  margin: 20px 0;
+    width:100%;
+}
+.footer {
+    background-color: #ea0202;
+}
+.count-visitor{
+ 	height: 57px;
+    width: 60px;
+    border: 1px solid #8e8d8d;
+    float: left;
+    border-radius: 6px;
+    margin-right: 3px;
+}
+ .count-visitor .view-visitor{
+  display:block;
+    text-align: center;
+    line-height: 30px;
+}
+.count-visitor .view-icon{
+   display: block;
+    text-align: center;
+    background-color: #1877f2;
+    line-height: 28px;
+    color: #fff;
+    font-size: 21px;
+    border-radius: 0 0 6px 6px;
+}
+#like-fan-page{
+  display: block;
+    position: relative;
+    bottom: 3px;
+}
+.header-bottom {
+    background-color: #ea0202;
+}
+.sidebar-item-head {
+    height: 40px;
+    line-height: 40px;
+}
+.sidebar-item-head span:before {
+    width: 10px;
+    right: -50px;
+    background-color: #fff;
+    border-right: 40px solid #ea0202!important;
+    border: 40px solid transparent;
+    border-bottom: 0 solid #ea0202;
+    border-left: 0 solid #ea0202!important;
+}
+.owl-item header.entry-header{
+ display:none 
+}
+ .popup-ads .popup-content img{
+            height: calc(100% - 35px);
+           /* width: calc(100% - 35px);*/
+        }
+#fb-btn{
+  height: 34px; padding: 5px; margin-top: 25px;
+}

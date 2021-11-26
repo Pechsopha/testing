@@ -1,0 +1,9 @@
+{
+    "name": "Post Scheduler",
+    "namespace": "Botble\\PostScheduler\\",
+    "provider": "Botble\\PostScheduler\\Providers\\PostSchedulerServiceProvider",
+    "author": "Alynana",
+    "url": "#",
+    "version": "5.3",
+    "description": "Set published time for posts"
+}

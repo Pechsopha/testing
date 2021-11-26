@@ -1,0 +1,121 @@
+@media screen and (max-width: 960px) {
+    .container {
+      width: 870px;
+    }
+    .header-banner,
+    .icon-home {
+      display: none;
+    }
+    .close-nav,
+    .collap-main-nav {
+      display: block;
+    }
+    .close-nav {
+      height: 40px;
+      line-height: 40px;
+      background-color: #ea0202;
+      color: #fff;
+      text-align: center;
+      font-size: 12px;
+      cursor: pointer;
+    }
+    .close-nav i {
+      margin-right: 10px;
+      font-size: 16px;
+    }
+    .main-nav {
+      position: fixed;
+      top: 0;
+      left: -250px;
+      width: 250px;
+      height: 100%;
+      z-index: 100000;
+      background-color: #ea0202;
+      box-shadow: 3px 3px 0 rgba(0, 0, 0, 0.2);
+      opacity: 0;
+      visibility: hidden;
+      transition: all ease-in-out 0.5s;
+    }
+    .block-post-wrap-item,
+    .featured-new-item,
+    .main-nav-inner {
+      width: 100%;
+    }
+    .main-nav-inner > ul > li ul li a:hover,
+    .main-nav-inner > ul > li:hover {
+      background-color: transparent;
+    }
+    .main-nav-active,
+    .main-nav-inner > ul > li ul {
+      left: 0;
+      opacity: 1;
+      visibility: visible;
+    }
+    .main-nav-inner {
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 100%;
+      overflow-y: auto;
+    }
+    .main-nav-inner > ul > li {
+      float: none;
+    }
+    .main-nav-inner > ul > li > a {
+      border-top: 1px solid #ea0202;
+      border-bottom: 1px solid #ea0202;
+      line-height: 40px;
+    }
+    #menu-header-main-menu li ul {
+      background-color: #A31302;
+    }
+    .main-nav-inner > ul > li ul {
+      position: relative;
+      top: 0;
+      min-width: 100%;
+      width: 100%;
+      box-shadow: none;
+      line-height: 20px;
+    }
+    .main-nav-inner > ul > li ul li a {
+      white-space: normal;
+      padding: 8px 13px;
+      font-size: 14px;
+    }   
+  }
+  @media screen and (max-width: 890px) {
+    .container {
+      width: 570px;
+    }
+    .header-top .container {
+      height: 90px;
+    }
+    .logo {
+      height: 60px;
+      margin-top: 15px;
+    }
+  }
+  @media screen and (max-width: 590px) {
+    .container {
+      width: 96%;
+    }
+    .header-menu-top-left {
+      display: none;
+    }
+    .header-bottom .container {
+      height: 40px;
+      line-height: 40px;
+    }
+    .collap-main-nav {
+      height: 40px;
+    }
+    .collap-main-nav img {
+      margin-top: 9px;
+    }
+    .collap-nav-second {
+      line-height: 22px;
+      height: 40px;
+      width: 40px;
+    }
+  }
+  
