@@ -1,0 +1,9 @@
+{
+    "name": "Cookie Consent",
+    "namespace": "Botble\\CookieConsent\\",
+    "provider": "Botble\\CookieConsent\\Providers\\CookieConsentServiceProvider",
+    "author": "Alynana",
+    "url": "#",
+    "version": "5.3",
+    "description": "Cookie Consent"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "botble/facebook",
+  "description": "Facebook plugin",
+  "homepage": "https://botble.com",
+  "authors": [
+    {
+      "name": "Sang Nguyen",
+      "email": "minhsang2603@gmail.com",
+      "homepage": "https://sangnguyen.info"
+    }
+  ],
+  "require": {
+    "facebook/graph-sdk": "^5.7"
+  }
+}
