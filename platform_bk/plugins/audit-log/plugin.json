@@ -1,9 +1,0 @@
-{
-    "name": "Audit Log",
-    "namespace": "Botble\\AuditLog\\",
-    "provider": "Botble\\AuditLog\\Providers\\AuditLogServiceProvider",
-    "author": "Alynana",
-    "url": "#",
-    "version": "5.3",
-    "description": "Record activities logs"
-}

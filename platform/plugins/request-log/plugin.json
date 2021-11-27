@@ -1,9 +1,0 @@
-{
-    "name": "Request Log",
-    "namespace": "Botble\\RequestLog\\",
-    "provider": "Botble\\RequestLog\\Providers\\RequestLogServiceProvider",
-    "author": "Alynana",
-    "url": "#",
-    "version": "5.3",
-    "description": "Log error requests"
-}

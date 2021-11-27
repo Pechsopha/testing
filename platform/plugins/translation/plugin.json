@@ -1,9 +1,0 @@
-{
-    "name": "Translation",
-    "namespace": "Botble\\Translation\\",
-    "provider": "Botble\\Translation\\Providers\\TranslationServiceProvider",
-    "author": "Alynana",
-    "url": "#",
-    "version": "5.3",
-    "description": "Manage translation text"
-}

@@ -1,9 +1,0 @@
-{
-    "name": "Simple Slider",
-    "namespace": "Botble\\SimpleSlider\\",
-    "provider": "Botble\\SimpleSlider\\Providers\\SimpleSliderServiceProvider",
-    "author": "Alynana",
-    "url": "#",
-    "version": "5.3",
-    "description": "A plugin to create sliders"
-}

@@ -1,9 +1,0 @@
-{
-    "name": "Analytics",
-    "namespace": "Botble\\Analytics\\",
-    "provider": "Botble\\Analytics\\Providers\\AnalyticsServiceProvider",
-    "author": "Alynana",
-    "url": "#",
-    "version": "5.3",
-    "description": "Tracking data from Google Analytics"
-}

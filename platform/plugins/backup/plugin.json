@@ -1,9 +1,0 @@
-{
-    "name": "Backup",
-    "namespace": "Botble\\Backup\\",
-    "provider": "Botble\\Backup\\Providers\\BackupServiceProvider",
-    "author": "Alynana",
-    "url": "#",
-    "version": "5.3",
-    "description": "Backup & restore database, uploads folder"
-}

@@ -1,9 +1,0 @@
-{
-    "name": "Blog",
-    "namespace": "Botble\\Blog\\",
-    "provider": "Botble\\Blog\\Providers\\BlogServiceProvider",
-    "author": "Alynana",
-    "url": "#",
-    "version": "5.3",
-    "description": "Manage posts, categories, tags"
-}

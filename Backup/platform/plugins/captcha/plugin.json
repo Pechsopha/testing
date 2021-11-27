@@ -1,9 +1,0 @@
-{
-    "name": "Captcha",
-    "namespace": "Botble\\Captcha\\",
-    "provider": "Botble\\Captcha\\Providers\\CaptchaServiceProvider",
-    "author": "Alynana",
-    "url": "#",
-    "version": "5.3",
-    "description": "Captcha for higher security"
-}
