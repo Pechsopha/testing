@@ -1,0 +1,9 @@
+{
+    "name": "Facebook",
+    "namespace": "Botble\\Facebook\\",
+    "provider": "Botble\\Facebook\\Providers\\FacebookServiceProvider",
+    "author": "Alynana",
+    "url": "#",
+    "version": "5.3",
+    "description": "Facebook"
+}

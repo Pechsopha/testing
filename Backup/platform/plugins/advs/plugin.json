@@ -1,0 +1,9 @@
+{
+    "name": "Advertise",
+    "namespace": "Botble\\Advs\\",
+    "provider": "Botble\\Advs\\Providers\\AdvsServiceProvider",
+    "author": "Alynana",
+    "url": "#",
+    "version": "5.3",
+    "description": "Create or easy to add advs images to posts, pages..."
+}
